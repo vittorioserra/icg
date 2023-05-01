@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/a01.dir/a01.cpp.o -o ../a01  external/glfw/src/libglfw3.a external/glbinding/libglbinding.a external/incg/libincg.a external/glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread external/glbinding/libglbinding.a -lGL -lGLU -pthread 

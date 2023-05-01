@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b1e08428850a1662dd27a9af55a68ec5 external/glbinding/CMakeFiles/check-template
+64bd91574e9babe99c5b0198ce8d87c4 external/glbinding/source/glbinding/CMakeFiles/cppcheck-glbinding
